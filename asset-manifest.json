@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/github.io/Gifts_of_Hopes/static/css/main.51047c27.css",
+    "main.js": "/github.io/Gifts_of_Hopes/static/js/main.27273319.js",
+    "static/js/787.8993c3e1.chunk.js": "/github.io/Gifts_of_Hopes/static/js/787.8993c3e1.chunk.js",
+    "static/media/logo.svg": "/github.io/Gifts_of_Hopes/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/github.io/Gifts_of_Hopes/index.html",
+    "main.51047c27.css.map": "/github.io/Gifts_of_Hopes/static/css/main.51047c27.css.map",
+    "main.27273319.js.map": "/github.io/Gifts_of_Hopes/static/js/main.27273319.js.map",
+    "787.8993c3e1.chunk.js.map": "/github.io/Gifts_of_Hopes/static/js/787.8993c3e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51047c27.css",
+    "static/js/main.27273319.js"
+  ]
+}
