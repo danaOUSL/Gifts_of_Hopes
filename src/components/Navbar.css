@@ -1,0 +1,16 @@
+.menu{
+    justify-content: flex-end;
+}
+
+.head_nav{
+   display: flex;
+   flex-direction: row;
+   justify-content:space-between;
+   margin: 1rem;
+
+   
+   
+  
+    
+   
+}

@@ -1,0 +1,12 @@
+.handle_CarouselC{
+    display :flex ;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+.main_2_btn{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 5rem;
+}

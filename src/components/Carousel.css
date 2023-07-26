@@ -1,0 +1,10 @@
+.handle_CarouselC {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+  }
+  
+  .handle_CarouselC .ant-carousel {
+    width: 28%;
+  }
